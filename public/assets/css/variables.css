@@ -1,0 +1,32 @@
+:root {
+  /* Couleurs principales */
+  --color-primary: #485c11;
+  --color-primaryOpacity: #485c119d;
+  --color-secondary: #6b7955;
+  --color-tertiary: #dfecc6;
+
+  /* Couleurs personnalisées */
+  --color-dark: #000000;
+  --color-light: #e9e9e9;
+  --color-background: #ffffff;
+  --color-text: #929292;
+
+  /* Police */
+  --bs-body-font-family: "Poppins", serif;
+  --bs-body-fs-secondary: "Roboto Slab", serif;
+
+  /* tailles */
+  --fs-s: 0.85rem;
+  --fs-sm: 1rem;
+  --fs-base: 1.3rem;
+  --fs-lg: 1.6rem;
+  --fs-xl: 2rem;
+  --fs-xxl: 2.5rem;
+  --fs-xxxl: 3.6rem;
+
+  /* poids (épaisseur) */
+  --fw-light: 300;
+  --fw-normal: 400;
+  --fw-medium: 500;
+  --fw-bold: 700;
+}
